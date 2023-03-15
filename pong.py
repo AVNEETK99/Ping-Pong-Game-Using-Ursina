@@ -79,7 +79,4 @@ def input(key):
         ball.speed += 5
 
 
-# TODO: register when the ball exits either side and give points
-
-
 app.run()
